@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+# Permalinks
+permalink:           pretty
+
+# Page Info
+title:               Kevin Wong
+tagline:             'iOS goodness'
+description:         "Kevin Wong's personal page. Introducing you to iOS good stuff."
+url:                 http://kevinwl02.github.io
+baseurl:             ''
+paginate:            5
+
+# About
+author:
+  name:              Kevin Wong
+  twitter:           https://twitter.com/kevinwl02
+  github:			 https://github.com/kevinwl02
+  linkedin:			 https://www.linkedin.com/in/kevin-wong-251a8134/
+  email:			 kevin.wl.02@gmail.com
+
+# Build
+gems: [jekyll-paginate]

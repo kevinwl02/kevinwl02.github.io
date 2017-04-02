@@ -1,0 +1,38 @@
+@import "base";
+@import "theme";
+@import "syntax";
+
+.profile-image {
+	width: 33%;
+	height: auto;
+	margin: auto;
+	margin-bottom: 20px
+}
+.social-image-link {
+	width: 30px;
+	height: 30px;
+	margin-right: 15px;
+	display: inline-block;
+}
+.social-image-about {
+	width: 25px;
+	height: 25px;
+	margin: auto;
+}
+.link-about {
+	display: inline-block;
+}
+.container-social-about {
+	display: inline-block;
+	vertical-align:middle;
+	margin-right: 10px;
+}
+.container-cell-social-about {
+	display: table;
+	margin-bottom: 10px;
+}
+
+.container-cell-social-about-top {
+	@extend .container-cell-social-about;
+	padding-top: 10px;
+}

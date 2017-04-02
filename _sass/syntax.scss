@@ -1,0 +1,236 @@
+//colors
+$color_cream_approx: #ffc;
+$color_mountain_mist_approx: #999;
+$color_bright_red_approx: #a00;
+$color_cornflower_lilac_approx: #faa;
+$color_bahama_blue_approx: #069;
+$color_fuscous_gray_approx: #555;
+$color_azure_radiance_approx: #09f;
+$color_persian_green_approx: #099;
+$color_pink_approx: #fcc;
+$color_guardsman_red_approx: #c00;
+$red: #f00;
+$color_deep_fir_approx: #030;
+$color_snowy_mint_approx: #cfc;
+$color_green_approx: #0c0;
+$color_silver_chalice_approx: #aaa;
+$color_ultramarine_approx: #009;
+$color_olivine_approx: #9c6;
+$color_blue_lagoon_approx: #078;
+$blaze_orange: #f60;
+$color_fuzzy_wuzzy_brown_approx: #d44950;
+$color_shakespeare_approx: #4f9fcf;
+$color_casal_approx: #366;
+$color_niagara_approx: #0a8;
+$color_dell_approx: #360;
+$color_portage_approx: #99f;
+$color_magenta_fuchsia_approx: #c0f;
+$color_bright_turquoise_approx: #0cf;
+$color_jelly_bean_approx: #2f6f9f;
+$color_deep_teal_approx: #033;
+$black: #000;
+$color_pink_swan_approx: #bbb;
+$color_grenadier_approx: #c30;
+$color_keppel_approx: #3aa;
+$sunglow: #fc3;
+
+.highlight {
+	.hll {
+		background-color: $color_cream_approx;
+	}
+	.c {
+		color: $color_mountain_mist_approx;
+	}
+	.err {
+		color: $color_bright_red_approx;
+		background-color: $color_cornflower_lilac_approx;
+	}
+	.k {
+		color: $color_bahama_blue_approx;
+	}
+	.o {
+		color: $color_fuscous_gray_approx;
+	}
+	.cm {
+		color: $color_azure_radiance_approx;
+		font-style: italic;
+	}
+	.cp {
+		color: $color_persian_green_approx;
+	}
+	.c1 {
+		color: $color_mountain_mist_approx;
+	}
+	.cs {
+		color: $color_mountain_mist_approx;
+	}
+	.gd {
+		background-color: $color_pink_approx;
+		border: 1px solid $color_guardsman_red_approx;
+	}
+	.ge {
+		font-style: italic;
+	}
+	.gr {
+		color: $red;
+	}
+	.gh {
+		color: $color_deep_fir_approx;
+	}
+	.gi {
+		background-color: $color_snowy_mint_approx;
+		border: 1px solid $color_green_approx;
+	}
+	.go {
+		color: $color_silver_chalice_approx;
+	}
+	.gp {
+		color: $color_ultramarine_approx;
+	}
+	.gs {
+	}
+	.gu {
+		color: $color_deep_fir_approx;
+	}
+	.gt {
+		color: $color_olivine_approx;
+	}
+	.kc {
+		color: $color_bahama_blue_approx;
+	}
+	.kd {
+		color: $color_bahama_blue_approx;
+	}
+	.kn {
+		color: $color_bahama_blue_approx;
+	}
+	.kp {
+		color: $color_bahama_blue_approx;
+	}
+	.kr {
+		color: $color_bahama_blue_approx;
+	}
+	.kt {
+		color: $color_blue_lagoon_approx;
+	}
+	.m {
+		color: $blaze_orange;
+	}
+	.s {
+		color: $color_fuzzy_wuzzy_brown_approx;
+	}
+	.na {
+		color: $color_shakespeare_approx;
+	}
+	.nb {
+		color: $color_casal_approx;
+	}
+	.nc {
+		color: $color_niagara_approx;
+	}
+	.no {
+		color: $color_dell_approx;
+	}
+	.nd {
+		color: $color_portage_approx;
+	}
+	.ni {
+		color: $color_mountain_mist_approx;
+	}
+	.ne {
+		color: $color_guardsman_red_approx;
+	}
+	.nf {
+		color: $color_magenta_fuchsia_approx;
+	}
+	.nl {
+		color: $color_portage_approx;
+	}
+	.nn {
+		color: $color_bright_turquoise_approx;
+	}
+	.nt {
+		color: $color_jelly_bean_approx;
+	}
+	.nv {
+		color: $color_deep_teal_approx;
+	}
+	.ow {
+		color: $black;
+	}
+	.w {
+		color: $color_pink_swan_approx;
+	}
+	.mf {
+		color: $blaze_orange;
+	}
+	.mh {
+		color: $blaze_orange;
+	}
+	.mi {
+		color: $blaze_orange;
+	}
+	.mo {
+		color: $blaze_orange;
+	}
+	.sb {
+		color: $color_grenadier_approx;
+	}
+	.sc {
+		color: $color_grenadier_approx;
+	}
+	.sd {
+		color: $color_grenadier_approx;
+		font-style: italic;
+	}
+	.s2 {
+		color: $color_grenadier_approx;
+	}
+	.se {
+		color: $color_grenadier_approx;
+	}
+	.sh {
+		color: $color_grenadier_approx;
+	}
+	.si {
+		color: $color_bright_red_approx;
+	}
+	.sx {
+		color: $color_grenadier_approx;
+	}
+	.sr {
+		color: $color_keppel_approx;
+	}
+	.s1 {
+		color: $color_grenadier_approx;
+	}
+	.ss {
+		color: $sunglow;
+	}
+	.bp {
+		color: $color_casal_approx;
+	}
+	.vc {
+		color: $color_deep_teal_approx;
+	}
+	.vg {
+		color: $color_deep_teal_approx;
+	}
+	.vi {
+		color: $color_deep_teal_approx;
+	}
+	.il {
+		color: $blaze_orange;
+	}
+}
+.css {
+	.o {
+		color: $color_mountain_mist_approx;
+		+ .nt {
+			color: $color_mountain_mist_approx;
+		}
+	}
+	.nt + .nt {
+		color: $color_mountain_mist_approx;
+	}
+}
