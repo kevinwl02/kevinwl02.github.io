@@ -177,11 +177,11 @@ pre {
 	padding: 1rem;
 	font-size: .8rem;
 	line-height: 1.4;
-	white-space: pre;
-	white-space: pre-wrap;
+	//white-space: pre;
+	//white-space: pre-wrap;
 	//Instead of the line below you could use @include word-break($value)
 	word-break: break-all;
-	word-wrap: break-word;
+	//word-wrap: break-word;
 	background-color: $color_alabaster_approx;
 	code {
 		padding: 0;
@@ -194,8 +194,9 @@ pre {
 	margin-bottom: 1rem;
 	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
 	border-radius: 4px;
+	overflow: auto;
 	pre {
-		margin-bottom: 0;
+		overflow: auto;
 	}
 }
 .gist {
