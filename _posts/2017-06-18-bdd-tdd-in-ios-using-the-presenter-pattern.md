@@ -128,7 +128,7 @@ class BeerSearchTests: QuickSpec {
 
 ### Step 3: Implementing unit tests for dependencies and business logic components
 
-**The amount of code that will be shown could be quite substancial. To make it easier to follow, you can check the project source at Github.**
+**The amount of code that will be shown could be quite substancial. To make it easier to follow, you can check the project source at [Github](https://github.com/kevinwl02/Swift-BDD-with-MVP-example).**
 
 For this example, we will focus on the first 2 scenarios. Before moving on to writing the presenter tests, we need the logical/computational portion and dependencies of this scenario implemented first. Let's create a SearchTermTests class that will contain the tests we need for this scenario.
 
@@ -356,6 +356,6 @@ We ended up creating only the necessary fake objects (test doubles, etc.) to int
 
 ## Let's wrap up
 
-Well, this ended up being a pretty big article. That concludes the presenter unit tests and implementation for the first three proposed behaviors. The rest is left as a small exercise. If you didn't see the reference above, you can check the project source here.
+Well, this ended up being a pretty big article. That concludes the presenter unit tests and implementation for the first three proposed behaviors. The rest is left as a small exercise. If you didn't see the reference above, you can check the project source [here](https://github.com/kevinwl02/Swift-BDD-with-MVP-example).
 
 In this occasion, we mostly did a walkthrough in TDD, while emphasizing the synergy between BDD and patterns like MVP or VIPER. It is not to say that a similar approach can't be taken while preparing UI tests. However, exercising this path can be another asset to maintain a more fluid workflow, specially if your project benefits from these architectural patterns. 
