@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-Hi there. Some of me here.
+Hi there.
 
-I'm an iOS (and mobile) developer with a couple good years behind my back. I'm passionate about this technology and enthusiast in cool tricks to make code brimming with elegance.
+I'm an iOS developer working with mobile technologies back to 5 or 6 years. Interested in finding neat ways to code in iOS, good software engineering, game development, martial arts, japanese culture and art as a philosophy.
 
 Feel free to contact me or look me up.
 
