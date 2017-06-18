@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Page Info
 title:               Kevin Wong
-tagline:             'iOS goodness'
-description:         "Kevin Wong's personal page. Introducing you to iOS good stuff."
+tagline:             'The art of software'
+description:         "Kevin Wong's personal page. Some good bits about iOS and development."
 url:                 http://kevinwl02.github.io
 baseurl:             ''
 paginate:            5
