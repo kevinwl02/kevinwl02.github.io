@@ -1,6 +1,7 @@
 ---
 layout: post
 title: iOS BDD/TDD using the Presenter pattern
+permalink: /bdd-tdd-presenter/
 ---
 
 Troubled with writing unit tests? TDD? It's not unusual to find iOS projects that don't enforce the idea that much. If you are in need to increase code quality, this can hopefully help you.
