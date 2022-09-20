@@ -4,7 +4,7 @@ permalink:           pretty
 # Page Info
 title:               Kevin Wong
 tagline:             'The art of software'
-description:         "Kevin Wong's personal page. Some good bits about iOS and development."
+description:         "Kevin Wong's personal page. Mobile engineering."
 url:                 http://kevinwl02.github.io
 baseurl:             ''
 paginate:            5
